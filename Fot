@@ -302,9 +302,7 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 2 🇷🇺
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-
-
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8 by
 
 
 #EXTINF:-1, X SPORT 🇷🇺
@@ -326,15 +324,6 @@ http://ru.iptv.monster/play/463/0519D3F69D972DB/video.m3u8
 
 #EXTINF:-1, TV3 SPORT LITUANIA 🇱🇹
 http://myott.top/stream/57RNNIDQBP/416.m3u8
-
-#EXTINF:-1, TV2 SPORT PREMIUM 2 NO 🇳🇴
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/115556
-
-#EXTINF:-1, V SPORT NO 🇳🇴
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100528
-
-#EXTINF:-1, C MORE FOOTBALL 🇸🇪
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/97644
 
 #EXTINF:-1, SB SPORT 3 🇻🇳
 http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
@@ -383,8 +372,6 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
-#EXTINF:-1 , LIVE SPORT HD 🇭🇺
-http://195.222.7.26:7001/play/a00t
 
 #EXTINF:-1, SPOTV 1 🇮🇩
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1659773379~exp=9007200914514370~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=c1868bb91988c2e4b3b4bb98e8f73689c5d85c672bd3d857446521cad5228e11
@@ -404,18 +391,8 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 #EXTINF:-1, SPOTV 2 🇮🇩
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
 
-#EXTINF:-1, GEO SUPER 🇮🇳
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
-
 #EXTINF:-1, TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1, ASTRO SUPERSPORT 1 🇲🇾
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts
-
-#EXTINF:-1, ASTRO ARENA 🇲🇾
-http://51.79.82.208:16058/
-
 
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
@@ -497,12 +474,6 @@ http://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 #EXTINF:-1, LA 8 VALLADOLID 🇪🇸
 https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
 
-#EXTINF:-1, MEGA 🇪🇸
-http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
-
-#EXTINF:-1, TELEDEPORTE 🇪🇸
-https://mvk@ztnr.rtve.es/ztnr/1712295.m3u8?mvk
-
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
@@ -521,17 +492,8 @@ http://200.24.132.99:8000/play/a02m
 #EXTINF:-1, ESPN ECUADOR 🇪🇨
 http://200.24.132.99:8000/play/a022
 
-#EXTINF:-1, ESPN PERU 🇵🇪
-http://181.176.148.142:8000/play/a02d
-
 #EXTINF:-1,ESPN 🇦🇷
 http://200.110.169.237:8202/play/a01n
-
-#EXTINF:-1,ESPN 🇦🇷
-http://190.43.232.244:8000/play/a09i/index.m3u8
-
-#EXTINF:-1,ESPN HD 🇦🇷
-http://190.43.232.244:8000/play/a068/index.m3u8
 
 #EXTINF:-1,ESPN 🇨🇴
 http://201.219.223.101:46000/play/a03f
@@ -544,12 +506,6 @@ http://200.24.132.99:8000/play/a01v
 
 #EXTINF:-1, ESPN 2 LATINO 🇪🇨
 http://200.24.132.99:8000/play/a021
-
-#EXTINF:-1,ESPN 2 Latin 🇦🇷
-http://200.110.169.237:8202/play/a01m
-
-#EXTINF:-1,ESPN 2 Latin 🇦🇷
-http://190.43.232.244:8000/play/a09h/index.m3u8
 
 #EXTINF:-1,ESPN 2 🇨🇱
 http://201.219.223.101:46000/play/a015
@@ -611,9 +567,6 @@ http://190.60.39.62:8000/play/a02f
 
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/bPoTb8
-
-#EXTINF:-1,TIGO SPORTS 🇵🇾
-http://190.61.102.67:8000/play/a05x
 
 #EXTINF:-1, TRECE EN VIVO 🇵🇾 
 https://streaming.trece.com.py/live/trece.m3u8
