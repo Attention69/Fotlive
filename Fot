@@ -28,8 +28,6 @@ http://185.89.156.111:8000/play/a022?
 #EXTINF:-1, RTSH Sport2 🇦🇱
 http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 
-#EXTINF:-1, BEIN SPORT 1 🇫🇷
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/144.ts
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
@@ -46,14 +44,10 @@ https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
-#EXTINF:-1, RTK 1 🇽🇰
-http://146.59.19.1:80/5002/mpegts?
 
 #EXTINF:-1, TRT 1 🇹🇷
 http://ac.traveliptv.nl/ibrahimturk/v7Nv6vNvdk/16
 
-#EXTINF:-1, ASTRO ARENA 🇲🇾
-http://w.nasvpn.xyz:8080/live/saya/saya/4130.ts
 
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/BziVE9
@@ -64,26 +58,9 @@ https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
 #EXTINF:-1, TRUE SPORTS 2 🇲🇾
 http://w.nasvpn.xyz:8080/live/saya/saya/13322.ts
 
-#EXTINF:-1,TVP 🇦🇷
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-
-
-#EXTINF:-1,CHILEVISION 🇨🇱
-http://45.232.211.196:1080/play/a04d
-
-#EXTINF:-1,TVP SPORT 🇵🇱
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/1727?
-
 
 #EXTINF:-1, TELEAMAZONAS 🇪🇨
 http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
-
-#EXTINF:-1,SERVUS TV 🇩🇪
-https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,ZDF 🇩🇪
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036582
 
 #EXTINF:-1,ZDF 🇩🇪
 http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
