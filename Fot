@@ -609,12 +609,6 @@ http://190.60.39.62:8000/play/a02e
 #EXTINF:-1,Fox Sports 3
 http://190.60.39.62:8000/play/a02f
 
-#EXTINF:-1, TELE VIVO 🇺🇾
-http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
-
-#EXTINF:-1, TELE VIVO 🇺🇾
-http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/296875
-
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/bPoTb8
 
@@ -624,8 +618,6 @@ http://190.61.102.67:8000/play/a05x
 #EXTINF:-1, TRECE EN VIVO 🇵🇾 
 https://streaming.trece.com.py/live/trece.m3u8
 
-#EXTINF:-1, NUBAR SPORT 🇶🇦
-http://stream.nubar.tv:1935/private/NUBARSport/index.m3u8
 
 #EXTINF:-1,VTV5 🇻🇳
 http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
